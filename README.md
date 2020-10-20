@@ -14,7 +14,7 @@ The complete dataset is available [here](https://drive.google.com/file/d/1nwCNWl
 
 # Citation
 ```
-@article{6,
+@article{Punn_2020,
    title={Automated diagnosis of COVID-19 with limited posteroanterior chest X-ray images using fine-tuned deep neural networks},
    ISSN={1573-7497},
    DOI={10.1007/s10489-020-01900-3},
