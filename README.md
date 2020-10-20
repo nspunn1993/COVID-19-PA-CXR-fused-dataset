@@ -14,10 +14,13 @@ The complete dataset is available [here](https://drive.google.com/file/d/1nwCNWl
 
 # Citation
 ```
-@article{punn2020automated,
-  title={Automated diagnosis of COVID-19 with limited posteroanterior chest X-ray images using fine-tuned deep neural networks},
-  author={Punn, Narinder Singh and Agarwal, Sonali},
-  journal={arXiv preprint arXiv:2004.11676},
-  year={2020}
+@article{6,
+   title={Automated diagnosis of COVID-19 with limited posteroanterior chest X-ray images using fine-tuned deep neural networks},
+   ISSN={1573-7497},
+   DOI={10.1007/s10489-020-01900-3},
+   journal={Applied Intelligence},
+   publisher={Springer Science and Business Media LLC},
+   author={Punn, Narinder Singh and Agarwal, Sonali},
+   year={2020}
 }
 ```
